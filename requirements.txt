@@ -4,7 +4,3 @@ streamlit-drawable-canvas
 opencv-python-headless
 numpy
 pandas
-sklearn
-matplotlib
-shap
-seaborn
